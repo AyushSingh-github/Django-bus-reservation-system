@@ -5,7 +5,6 @@ About the system
 
 You can create an admin using the command python3 manage.py createsuperuser. Admin has the right to manage users, bus and booking. Whereas, registered user is authorized to search bus, view and cancel bookings.
 
-https://youtu.be/XmVWoKPjFz4
 Requirements
 
 Python
